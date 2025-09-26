@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: !!!CompatShims
+## Notes: API shims for 3.3.5a
+## Author: Thierbig
+## Version: 1.0
+
+Compat.lua
